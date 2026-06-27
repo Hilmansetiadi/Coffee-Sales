@@ -43,7 +43,8 @@ SELECT
     d.profit
 FROM ecommerce_details d
 INNER JOIN ecommerce_orders o ON d.order_id = o.order_id;
-📊 Phase 2: Data Visualization & Dashboard Design (Power BI)
+
+## 📊 Phase 2: Data Visualization & Dashboard Design (Power BI)
 Laporan visualisasi dirancang dalam 2 halaman interaktif yang memisahkan antara eksplorasi data taktis dan ringkasan eksekutif strategis:
 
 Halaman 1: Sales Performance Dashboard
